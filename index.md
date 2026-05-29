@@ -1,8 +1,9 @@
 # GOL GAPPE!
 _The best snack from south asia._  
-__It is not called pani puri.__
+## It is not called pani puri.
 [Wikipedia of Gol Gappe!](https://en.wikipedia.org/wiki/Panipuri)
 
 
 Since I was little this snack has comforted me; My sister always chose samosas and gol gappe were mine. This distinction is something that lasts today; whenever there is a birthday the food ordered differentiates between us in the same way. My sister always chooses a large box of somasas, where I choose gol gappe instead. 
-![Image of Gol Gappe](./Gol Gappe.jpeg)
+
+![Image of Gol Gappe](https://github.com/ManjotSingh-cs/Personal/blob/main/Gol%20Gappe.jpeg)
